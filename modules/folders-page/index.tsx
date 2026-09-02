@@ -1,7 +1,7 @@
 "use client";
 
 import { FOLDER_EXPLORER } from "@/constants/folder-structures";
-import FieldStructure from "./components/field-structure";
+import FieldStructure from "./partials/field-structure";
 import { useState } from "react";
 
 const HomePage = () => {
